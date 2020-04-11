@@ -1,0 +1,13 @@
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.csprojAssemblyReference.cache
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.csproj.CoreCompileInputs.cache
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.AssemblyInfoInputs.cache
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.AssemblyInfo.cs
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.exe
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.deps.json
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.runtimeconfig.json
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.runtimeconfig.dev.json
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.dll
+C:\C#\Schedule\bin\Debug\netcoreapp3.1\Schedule.pdb
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.dll
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.pdb
+C:\C#\Schedule\obj\Debug\netcoreapp3.1\Schedule.genruntimeconfig.cache
